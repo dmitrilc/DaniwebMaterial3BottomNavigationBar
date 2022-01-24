@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daniweb Material 3 Bottom Navigation Bar</string>
+    <string name="text_label_1">Call Cab</string>
+    <string name="text_label_2">Map</string>
+    <string name="text_label_3">SOS</string>
+    <string name="text_label_4">Schedule</string>
+    <string name="text_label_5">Payment</string>
+</resources>
